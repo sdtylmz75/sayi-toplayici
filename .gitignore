@@ -1,0 +1,28 @@
+# Android üretilen dosyalar
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App build
+app/build/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.aar
+
+# IDE
+.idea/
+*.iws
+out/
+
+# Misc
+*.log
